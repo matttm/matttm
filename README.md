@@ -5,7 +5,7 @@ Currently working at Softrams creating awesome NodeJS APIs!
 I enjoy going low-level!!
 
 #### Contact Information:
-- Email: `matttmaloney @gmail.com`
+- Email: `matttmaloney@gmail.com`
 #### Projects:
 
 - I implemented the mysql client/server protocol in effort to create a proxy database with spoofing abilities. -- [matttm/imposter-db](https://github.com/matttm/imposter-db).
