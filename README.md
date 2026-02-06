@@ -6,6 +6,13 @@ I’m a vim enthusiast and software developer who loves building low-level syste
 
 ### 🛠️ Projects
 
+#### **APIs & Microservices**
+* **[blood-bank-api](https://github.com/matttm/blood-bank-api)** – Web API for a blood bank featuring auto-deployment to AWS Lambda.
+* **[crustacean-capital](https://github.com/matttm/crustacean-capital)** – A RESTful web server built with Rust.
+* **[storage-api](https://github.com/matttm/storage-api)** – A dedicated service for handling S3 uploads.
+* **[reddit-clone-backend](https://github.com/matttm/reddit-clone-backend)** – A high-performance backend rewrite in Go using GraphQL.
+* **[blood-bank-svc](https://github.com/matttm/blood-bank-svc)** – AWS Lambda service triggered directly via SQS queues.
+
 #### **Systems & Protocols**
 * **[imposter-db](https://github.com/matttm/imposter-db)** – A database proxy for local cloning of tables for development (Go).
 * **[gate-keeper](https://github.com/matttm/gate-keeper)** – A utility to quickly set application gates in a standard timeline (Perl).
