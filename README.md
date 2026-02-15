@@ -7,11 +7,12 @@ I’m a vim enthusiast and software developer who loves building low-level syste
 ### 🛠️ Projects
 
 #### **APIs & Microservices**
+* **[spoticli](https://github.com/matttm/spoticli)** – A RESTful music-streaming CLI application with a scalable Go backend.
+* **[reddit-clone-backend](https://github.com/matttm/reddit-clone-backend)** – A high-performance backend rewrite in Go using GraphQL.
 * **[blood-bank-api](https://github.com/matttm/blood-bank-api)** – Web API for a blood bank featuring auto-deployment to AWS Lambda.
 * **[blood-bank-svc](https://github.com/matttm/blood-bank-svc)** – AWS Lambda service triggered directly via SQS queues.
 * **[crustacean-capital](https://github.com/matttm/crustacean-capital)** – A RESTful web server built with Rust.
 * **[storage-api](https://github.com/matttm/storage-api)** – A dedicated service for handling S3 uploads.
-* **[reddit-clone-backend](https://github.com/matttm/reddit-clone-backend)** – A high-performance backend rewrite in Go using GraphQL.
 
 #### **Systems & Protocols**
 * **[imposter-db](https://github.com/matttm/imposter-db)** – A database proxy for local cloning of tables for development (Go).
@@ -19,7 +20,6 @@ I’m a vim enthusiast and software developer who loves building low-level syste
 * **[voting-booth](https://github.com/matttm/voting-booth)** – Voting booth simulator using a Spring backend and blockchain management (TypeScript/Java).
 
 #### **Terminal-Based Apps**
-* **[spoticli](https://github.com/matttm/spoticli)** – A RESTful music-streaming CLI application with a scalable Go backend.
 * **[terminal-hack](https://github.com/matttm/terminal-hack)** – A terminal-based game inspired by Fallout password cracking (Go).
 * **[battleship-rs](https://github.com/matttm/battleship-rs)** – A multiplayer terminal recreation of the classic Battleship (Rust).
 
