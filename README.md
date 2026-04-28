@@ -10,7 +10,7 @@ I’m a vim enthusiast and software developer who loves building low-level syste
 
 #### **Systems & Protocols**
 * ⭐️ **[imposter-db](https://github.com/matttm/imposter-db)** – A database proxy for local cloning of tables for development (Go).
-* ⭐️ **[gate-keeper](https://github.com/matttm/gate-keeper)** – A utility to quickly set application gates in a standard timeline (Perl).
+* ⭐️ **[gate-keeper](https://github.com/matttm/gate-keeper)** – A utility to quickly set application gates in a standard timeline (Go).
 *    **[voting-booth](https://github.com/matttm/voting-booth)** – Voting booth simulator using a Spring backend and blockchain management (TypeScript/Java).
 
 #### **Terminal-Based Games**
